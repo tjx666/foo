@@ -1,0 +1,20 @@
+{
+    "name": "@yutengjing/foo",
+    "version": "0.0.0",
+    "description": "for test",
+    "type": "module",
+    "exports": "./index.js",
+    "keywords": [],
+    "author": "YuTengjing",
+    "license": "MIT",
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/",
+        "access": "public"
+    },
+    "scripts": {
+        "release": "release"
+    },
+    "dependencies": {
+        "@yutengjing/release": "^0.2.0"
+    }
+}
