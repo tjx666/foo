@@ -14,7 +14,7 @@
     "scripts": {
         "release": "release && npm publish"
     },
-    "dependencies": {
+    "devDependencies": {
         "@yutengjing/release": "^0.2.0"
     }
 }
