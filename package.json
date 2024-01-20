@@ -12,7 +12,7 @@
         "access": "public"
     },
     "scripts": {
-        "release": "release"
+        "release": "release && npm publish"
     },
     "dependencies": {
         "@yutengjing/release": "^0.2.0"
